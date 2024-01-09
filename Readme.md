@@ -7,4 +7,4 @@
 - Stored workout data in the browser's local storage for persistent data management.
 
 ### website link
-- https://mapty-apllication.netlify.app/
+ https://mapty-apllication.netlify.app/
